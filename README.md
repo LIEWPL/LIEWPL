@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mahdi Haghverdi @LIEWPL
+- 👋 Hi, I’m Mahdi Haghverdi @mahdihagverdi
 - 👀 I’m interested in Python, Linux and technologies around these...
-- 🌱 I’m currently learning Python, Django, ...
+- 🌱 I’m currently learning Python, Django and asyncio
 - 💞️ I’m looking to collaborate on any project that I can help :)
 - 📫 How to reach me: email: mahdihaghverdiliewpl@gmail.com 
 
