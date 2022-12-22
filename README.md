@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mliewpl" target="blank"><img src="https://img.shields.io/twitter/follow/mliewpl?logo=twitter&style=for-the-badge" alt="mliewpl" /></a> </p>
 
-- 🔭 I’m currently working on **JsonicDB and uniman**
+- 🔭 I’m currently working on **`postfixcalc` and my university projects**
 
 - 🌱 I’m currently learning **Python, Pytest, FastAPI and a few other libs**
 
