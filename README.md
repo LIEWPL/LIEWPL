@@ -10,7 +10,8 @@
 A library which provides the API to get an arithmatic expression as `str` and parse and evaluate that safely using postfix method
 - [plumacalc](https://github.com/mahdihaghverdi/plumacalc)
 A django app which uses `postfixcalc` to make the calculator available through web
-
+- [listappend](https://github.com/mahdihaghverdi/listappend)
+  Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
 
 ### University
 - Computer Architecture
