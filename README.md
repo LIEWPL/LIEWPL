@@ -14,6 +14,7 @@ A django app which uses `postfixcalc` to make the calculator available through w
   Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
 
 ### Articles
+- [Deep Dive Into Object and Types in the C Layer of CPython](https://virgool.io/@liewpl/cpython-objs-types-c-layer-deep-dive-m5fjelhzrzny)
 - [How `list.append` works in CPython's C layer?](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
 - [Python is TOO FAST](https://virgool.io/@liewpl/python-is-very-fast-gmmdjs3zyhob)
 - [Python `asyncio` and `TaskGroup`s](https://virgool.io/@liewpl/asyncio-and-taskgroups-t598c8poken9)
