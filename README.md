@@ -11,19 +11,21 @@ A library which provides the API to get an arithmatic expression as `str` and pa
 - [plumacalc](https://github.com/mahdihaghverdi/plumacalc)
 A django app which uses `postfixcalc` to make the calculator available through web
 - [listappend](https://github.com/mahdihaghverdi/listappend)
-  Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
+  Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt) [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
 
 ### Articles
-- Deep Dive Into Object and Types in the C Layer of CPython
+- **Deep Dive Into Object and Types in the C Layer of CPython**
    - [Persian](https://virgool.io/@liewpl/cpython-objs-types-c-layer-deep-dive-m5fjelhzrzny)
    - [English](https://medium.com/@mahdihaghverdi/in-depth-look-at-objects-and-types-in-the-c-layer-of-cpython-interpreter-255bf195b3ea)
-- [How `list.append` works in CPython's C layer?](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
-- [Python is TOO FAST](https://virgool.io/@liewpl/python-is-very-fast-gmmdjs3zyhob)
-- [Python `asyncio` and `TaskGroup`s](https://virgool.io/@liewpl/asyncio-and-taskgroups-t598c8poken9)
-- [Python standard library vs. PyPI](https://virgool.io/@liewpl/python-standard-library-vs-pypi-mvz4o03jw2sj)
-- [Python, a language for companies seeking high performance](https://virgool.io/@liewpl/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%B4%D8%AA%D8%A7%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%88-performance-%D8%A8%D8%A7%D9%84%D8%A7-jc7ehvywizso)
-- [CPython will be 5x times faster](https://virgool.io/@liewpl/cpython-five-times-faster-p5jve4zzywog)
-- [more...](https://virgool.io/@liewpl)
+- **How `list.append` works in CPython's C layer?**
+   - [Persian](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
+   - [English](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
+- [**Python is TOO FAST**](https://virgool.io/@liewpl/python-is-very-fast-gmmdjs3zyhob)
+- [**Python `asyncio` and `TaskGroup`s**](https://virgool.io/@liewpl/asyncio-and-taskgroups-t598c8poken9)
+- [**Python standard library vs. PyPI**](https://virgool.io/@liewpl/python-standard-library-vs-pypi-mvz4o03jw2sj)
+- [**Python, a language for companies seeking high performance**](https://virgool.io/@liewpl/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%B4%D8%AA%D8%A7%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%88-performance-%D8%A8%D8%A7%D9%84%D8%A7-jc7ehvywizso)
+- [**CPython will be 5x times faster**](https://virgool.io/@liewpl/cpython-five-times-faster-p5jve4zzywog)
+- [_more..._](https://virgool.io/@liewpl)
   
 ### University
 - Computer Architecture
