@@ -1,8 +1,5 @@
 # Hi 👋, I'm Mahdi Haghverdi
 
-`Sometimes called: Mr. H =)`
-
-
 ## Overview of my things I work on
 
 ### Projects
@@ -14,6 +11,7 @@ A django app which uses `postfixcalc` to make the calculator available through w
   Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt) [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
 
 ### Articles
+- [**What's new in Python 3.12**](https://virgool.io/@liewpl/python-3-12-whats-new-vpq99njtytc6)
 - **Deep Dive Into Object and Types in the C Layer of CPython**
    - [Persian](https://virgool.io/@liewpl/cpython-objs-types-c-layer-deep-dive-m5fjelhzrzny)
    - [English](https://medium.com/@mahdihaghverdi/in-depth-look-at-objects-and-types-in-the-c-layer-of-cpython-interpreter-255bf195b3ea)
