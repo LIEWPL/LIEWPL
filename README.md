@@ -3,6 +3,8 @@
 ## Overview of my things I work on
 
 ### Projects
+- [FastBlog](https://github.com/mahdihaghverdi/FastBlog)
+A simple RESTful blog system
 - [postfixcalc](https://github.com/mahdihaghverdi/postfixcalc)
 A library which provides the API to get an arithmatic expression as `str` and parse and evaluate that safely using postfix method
 - [plumacalc](https://github.com/mahdihaghverdi/plumacalc)
