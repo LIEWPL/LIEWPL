@@ -3,13 +3,13 @@
 ## Overview of my things I work on
 
 ### Projects
-- [FastBlog](https://github.com/mahdihaghverdi/FastBlog)
+- [**FastBlog**](https://github.com/mahdihaghverdi/FastBlog)
 A simple RESTful blog system
-- [postfixcalc](https://github.com/mahdihaghverdi/postfixcalc)
+- [**postfixcalc**](https://github.com/mahdihaghverdi/postfixcalc)
 A library which provides the API to get an arithmatic expression as `str` and parse and evaluate that safely using postfix method
-- [plumacalc](https://github.com/mahdihaghverdi/plumacalc)
+- [**plumacalc**](https://github.com/mahdihaghverdi/plumacalc)
 A django app which uses `postfixcalc` to make the calculator available through web
-- [listappend](https://github.com/mahdihaghverdi/listappend)
+- [**listappend**](https://github.com/mahdihaghverdi/listappend)
   Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt) [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
 
 ### Articles
@@ -29,22 +29,22 @@ A django app which uses `postfixcalc` to make the calculator available through w
   
 ### University
 - Computer Architecture
-  - [architecture](https://github.com/mahdihaghverdi/architecture)
-  The exercises of Computer Architecture course in university
-  - [archproject](https://github.com/mahdihaghverdi/archproject)
-  The mini-projects of the course
-  - [cpu](https://github.com/mahdihaghverdi/cpu)
+  - [**cpu**](https://github.com/mahdihaghverdi/cpu)
   The main project of the course
+  - [**architecture**](https://github.com/mahdihaghverdi/architecture)
+  The exercises of Computer Architecture course in university
+  - [**archproject**](https://github.com/mahdihaghverdi/archproject)
+  The mini-projects of the course
 - Algorithm and Data structures
-  - [DrFatemiDAClass](https://github.com/mahdihaghverdi/DrFatemiDataStructureClass)
+  - [**DrFatemiDAClass**](https://github.com/mahdihaghverdi/DrFatemiDataStructureClass)
   The exercises and codes of the course
-  - [FoundationsOfAlgorithms](https://github.com/mahdihaghverdi/FoundationsOfAlgorithms)
+  - [**FoundationsOfAlgorithms**](https://github.com/mahdihaghverdi/FoundationsOfAlgorithms)
   Same
 - Agile software development:
-  - [Documentation of KarTup project](https://github.com/losgorriones/documentation)
+  - [**Documentation of KarTup project**](https://github.com/losgorriones/documentation)
   This was a project which we have written its documentation according to agile principles and methods!
 
 ### Learning
-- [LaTex](https://github.com/mahdihaghverdi/LaTeX)
+- [**LaTex**](https://github.com/mahdihaghverdi/LaTeX)
 All my LaTeX activity
 
