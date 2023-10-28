@@ -1,14 +1,16 @@
 # Hi 👋, I'm Mahdi Haghverdi
 
-## Overview of my things I work on
+## Overview of the things I work on
 
 ### Projects
 - [**FastBlog**](https://github.com/mahdihaghverdi/FastBlog)
-A simple RESTful blog system
+  A simple RESTful blog system
+- [**Aggify**](https://github.com/Aggify/aggify)
+  Aggify is a Python library to generate MongoDB aggregation pipelines 
 - [**postfixcalc**](https://github.com/mahdihaghverdi/postfixcalc)
-A library which provides the API to get an arithmatic expression as `str` and parse and evaluate that safely using postfix method
+  A library which provides the API to get an arithmatic expression as `str` and parse and evaluate that safely using postfix method
 - [**plumacalc**](https://github.com/mahdihaghverdi/plumacalc)
-A django app which uses `postfixcalc` to make the calculator available through web
+  A django app which uses `postfixcalc` to make the calculator available through web
 - [**listappend**](https://github.com/mahdihaghverdi/listappend)
   Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt) [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
 
@@ -30,19 +32,17 @@ A django app which uses `postfixcalc` to make the calculator available through w
 ### University
 - Computer Architecture
   - [**cpu**](https://github.com/mahdihaghverdi/cpu)
-  The main project of the course
-  - [**architecture**](https://github.com/mahdihaghverdi/architecture)
-  The exercises of Computer Architecture course in university
-  - [**archproject**](https://github.com/mahdihaghverdi/archproject)
-  The mini-projects of the course
+    Course main project
+  - [**arch-questions-answers**]
+    Being the Teacher Assistant of the Course in the first semester of 1402/1403
+- Agile software development:
+  - [**Documentation of KarTup project**](https://github.com/losgorriones/documentation)
+  This was a project which we have written its documentation according to agile principles and methods!
 - Algorithm and Data structures
   - [**DrFatemiDAClass**](https://github.com/mahdihaghverdi/DrFatemiDataStructureClass)
   The exercises and codes of the course
   - [**FoundationsOfAlgorithms**](https://github.com/mahdihaghverdi/FoundationsOfAlgorithms)
   Same
-- Agile software development:
-  - [**Documentation of KarTup project**](https://github.com/losgorriones/documentation)
-  This was a project which we have written its documentation according to agile principles and methods!
 
 ### Learning
 - [**LaTex**](https://github.com/mahdihaghverdi/LaTeX)
