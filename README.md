@@ -12,7 +12,9 @@
 - [**plumacalc**](https://github.com/mahdihaghverdi/plumacalc)
   A django app which uses `postfixcalc` to make the calculator available through web
 - [**listappend**](https://github.com/mahdihaghverdi/listappend)
-  Python implementation of `PyListObject` and its `append` mechanism for the article [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt) [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
+  Python implementation of `PyListObject` and its `append` mechanism for the article
+   - [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
+   - [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
 
 ### Articles
 - [**What's new in Python 3.12**](https://virgool.io/@liewpl/python-3-12-whats-new-vpq99njtytc6)
