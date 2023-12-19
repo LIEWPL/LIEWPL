@@ -16,7 +16,6 @@
    - [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
    - [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
 - [**timetp**](https://github.com/mahdihaghverdi/timetp)
-  
   A tokenizer and a parser written based on a DFA
   
   For full explanation read the article of this project at [Let's write a tokenizer and a parser](https://virgool.io/@liewpl/tokenizer-parser-in-python-ubzlsvukmdxz)
