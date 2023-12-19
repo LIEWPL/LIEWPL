@@ -16,21 +16,25 @@
    - [How Append Works (Persian)](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
    - [How Append Works (English)](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
 - [**timetp**](https://github.com/mahdihaghverdi/timetp)
-A tokenizer and a parser written based on a DFA
+  
+  A tokenizer and a parser written based on a DFA
+  
+  For full explanation read the article of this project at [Let's write a tokenizer and a parser](https://virgool.io/@liewpl/tokenizer-parser-in-python-ubzlsvukmdxz)
 
 ### Articles
-- [**What's new in Python 3.12**](https://virgool.io/@liewpl/python-3-12-whats-new-vpq99njtytc6)
+- [**Let's Write A Tokenizer And Parser**](https://virgool.io/@liewpl/tokenizer-parser-in-python-ubzlsvukmdxz)
+- [**What's New in Python 3.12**](https://virgool.io/@liewpl/python-3-12-whats-new-vpq99njtytc6)
 - **Deep Dive Into Object and Types in the C Layer of CPython**
    - [Persian](https://virgool.io/@liewpl/cpython-objs-types-c-layer-deep-dive-m5fjelhzrzny)
    - [English](https://medium.com/@mahdihaghverdi/in-depth-look-at-objects-and-types-in-the-c-layer-of-cpython-interpreter-255bf195b3ea)
-- **How `list.append` works in CPython's C layer?**
+- **How `list.append` Works In CPython's C Layer?**
    - [Persian](https://virgool.io/@liewpl/how-append-works-gp4apwtpr0bt)
    - [English](https://medium.com/@mahdihaghverdi/how-list-append-is-implemented-in-c-layer-of-cpython-interpreter-bf88632819c0)
-- [**Python is TOO FAST**](https://virgool.io/@liewpl/python-is-very-fast-gmmdjs3zyhob)
-- [**Python `asyncio` and `TaskGroup`s**](https://virgool.io/@liewpl/asyncio-and-taskgroups-t598c8poken9)
-- [**Python standard library vs. PyPI**](https://virgool.io/@liewpl/python-standard-library-vs-pypi-mvz4o03jw2sj)
-- [**Python, a language for companies seeking high performance**](https://virgool.io/@liewpl/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%B4%D8%AA%D8%A7%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%88-performance-%D8%A8%D8%A7%D9%84%D8%A7-jc7ehvywizso)
-- [**CPython will be 5x times faster**](https://virgool.io/@liewpl/cpython-five-times-faster-p5jve4zzywog)
+- [**Python Is TOO FAST**](https://virgool.io/@liewpl/python-is-very-fast-gmmdjs3zyhob)
+- [**Python `asyncio` And `TaskGroup`s**](https://virgool.io/@liewpl/asyncio-and-taskgroups-t598c8poken9)
+- [**Python Standard Library vs. PyPI**](https://virgool.io/@liewpl/python-standard-library-vs-pypi-mvz4o03jw2sj)
+- [**Python, A Language For Companies Seeking High Performance**](https://virgool.io/@liewpl/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%B4%D8%AA%D8%A7%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%88-performance-%D8%A8%D8%A7%D9%84%D8%A7-jc7ehvywizso)
+- [**CPython Will Be 5x Times Faster**](https://virgool.io/@liewpl/cpython-five-times-faster-p5jve4zzywog)
 - [_more..._](https://virgool.io/@liewpl)
   
 ### University
