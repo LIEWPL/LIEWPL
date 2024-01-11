@@ -35,7 +35,14 @@
 - [**Python, A Language For Companies Seeking High Performance**](https://virgool.io/@liewpl/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%B4%D8%AA%D8%A7%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%88-performance-%D8%A8%D8%A7%D9%84%D8%A7-jc7ehvywizso)
 - [**CPython Will Be 5x Times Faster**](https://virgool.io/@liewpl/cpython-five-times-faster-p5jve4zzywog)
 - [_more..._](https://virgool.io/@liewpl)
-  
+
+### Presentations
+  - **`timsort` algorithm explained in detail**
+    - [Persian](https://github.com/mahdihaghverdi/timsort/blob/main/slides.pdf)
+  - [**Compiler Design**](https://github.com/mahdihaghverdi/survey-course/blob/main/Extra3/RTP-EXTRA03-02-4003613023.pdf)
+  - [**Brief Introduction to LaTeX**](https://github.com/mahdihaghverdi/survey-course/blob/main/Presentation-2/slides.pdf)
+  - [**Brief Presentation About Computer Architecture**](https://github.com/mahdihaghverdi/survey-course/blob/main/Presentation-3/RPT-HW3-13-2.pdf)
+  - 
 ### University
 - Computer Architecture
   - [**cpu**](https://github.com/mahdihaghverdi/cpu)
@@ -45,11 +52,6 @@
 - Agile software development:
   - [**Documentation of KarTup project**](https://github.com/losgorriones/documentation)
   This was a project which we have written its documentation according to agile principles and methods!
-- Algorithm and Data structures
-  - [**DrFatemiDAClass**](https://github.com/mahdihaghverdi/DrFatemiDataStructureClass)
-  The exercises and codes of the course
-  - [**FoundationsOfAlgorithms**](https://github.com/mahdihaghverdi/FoundationsOfAlgorithms)
-  Same
 
 ### Learning
 - [**LaTex**](https://github.com/mahdihaghverdi/LaTeX)
