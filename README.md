@@ -21,7 +21,7 @@
   For full explanation read the article of this project at [Let's write a tokenizer and a parser](https://virgool.io/@liewpl/tokenizer-parser-in-python-ubzlsvukmdxz)
 
 ### Articles
-- [**Timsort Algorithm Explained**](https://virgool.io/@liewpl/timsort-algorithm-explained-u41h0wv0jnax)
+- [**Timsort Algorithm Explained**](https://virgool.io/@liewpl/timsort-algorithm-u41h0wv0jnax)
 - [**Let's Write A Tokenizer And Parser**](https://virgool.io/@liewpl/tokenizer-parser-in-python-ubzlsvukmdxz)
 - [**What's New in Python 3.12**](https://virgool.io/@liewpl/python-3-12-whats-new-vpq99njtytc6)
 - **Deep Dive Into Object and Types in the C Layer of CPython**
