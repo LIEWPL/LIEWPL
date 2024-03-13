@@ -3,7 +3,7 @@
 ## Overview of the things I work on
 
 ### Projects
-- [**SimpleRESTBlog**]([https://github.com/mahdihaghverdi/FastBlog](https://github.com/mahdihaghverdi/simplerestblog))
+- [**SimpleRESTBlog**](https://github.com/mahdihaghverdi/simplerestblog)
   A simple but feature rich RESTful blog system
 - [**Aggify**](https://github.com/Aggify/aggify)
   Aggify is a Python library to generate MongoDB aggregation pipelines 
