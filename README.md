@@ -2,6 +2,8 @@
 
 ## Overview of the things I work on
 
+### [My Resume](https://github.com/mahdihaghverdi/resume/blob/main/resume.pdf)
+
 ### Projects
 - [**SimpleRESTBlog**](https://github.com/mahdihaghverdi/simplerestblog)
   A simple but feature rich RESTful blog system
